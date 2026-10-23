@@ -13,4 +13,4 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Tableau
 
 ## Status
-In progress. Data loaded, analysis coming.
+In progress. Setting up tools and exploring the data.
