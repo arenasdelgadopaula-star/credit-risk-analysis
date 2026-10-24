@@ -14,6 +14,7 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Source: Lending Club loan data (2007-2018, about 2.26 million loans) from Kaggle.
 - My first 100,000 rows were almost all active loans (about 97% "Current"), with only 19 charge-offs, so I loaded the full file into SQLite in chunks.
 - I analyze only loans with a final outcome (Fully Paid or Charged Off), since active loans haven't finished yet.
+- Completed loans are those with status Fully Paid or Charged Off (about 1.3 million). Active, late, and policy-exception loans are excluded.
 
 ## Status
 In progress. Full dataset loaded into SQLite; starting exploratory analysis.
