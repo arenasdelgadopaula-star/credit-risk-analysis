@@ -21,7 +21,7 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Charge-off rates rise steadily with loan grade, from 6.1% (grade A) to 50.1% (grade G).
 - Grades B and C account for about 57% of completed loans.
 - Net return on completed loans (total payments received vs. amount funded) falls from +5.4% (grade A) to -9.2% (grade G). Grades E, F, and G lost money, and grade D roughly broke even.
-- Implication: a lender could tighten approval or raise pricing on grades D-G, which together are about 17% of completed loans.
+- Implication: a lender could tighten approval or raise pricing on grades D-G, which together are about 25% of completed loans.
 
 ## Status
 In progress. Full dataset loaded into SQLite; starting exploratory analysis.
