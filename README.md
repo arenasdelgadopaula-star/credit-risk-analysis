@@ -23,5 +23,10 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Net return on completed loans (total payments received vs. amount funded) falls from +5.4% (grade A) to -9.2% (grade G). Grades E, F, and G lost money, and grade D roughly broke even.
 - Implication: a lender could tighten approval or raise pricing on grades D-G, which together are about 25% of completed loans.
 
+## Limitations
+- Net return is a lifetime figure (total payments received vs. amount funded). It is not annualized and ignores payment timing and lender costs.
+- Only completed loans (Fully Paid or Charged Off) are included. Recent loans that are still active are excluded, which can make recent years look worse than they are.
+- Results are descriptive, not causal. I did not control for other factors like income or loan purpose.
+
 ## Status
 In progress. Full dataset loaded into SQLite; starting exploratory analysis.
