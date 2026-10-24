@@ -22,6 +22,7 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Grades B and C account for about 57% of completed loans.
 - Net return by grade is distorted when recent loans are included, because most recent loans that have a final status are charge-offs. Restricting to 36-month loans issued through 2014, which have all had time to finish, every grade was profitable, with lifetime returns of about +8.8% to +10.7%.
 - Within that cleaner sample, riskier grades did not earn higher returns than safer ones. Grades B-F all returned about 10%, while grade A returned 7.7%. The higher interest on risky loans roughly offset their higher charge-off rates.
+![Charge-off rate vs. net return by grade](grade_chart.png)
 
 ## Limitations
 - Net return is a lifetime figure (total payments received vs. amount funded). It is not annualized and ignores payment timing and lender costs.
