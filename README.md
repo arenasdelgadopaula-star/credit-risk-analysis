@@ -16,5 +16,10 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - I analyze only loans with a final outcome (Fully Paid or Charged Off), since active loans haven't finished yet.
 - Completed loans are those with status Fully Paid or Charged Off (about 1.3 million). Active, late, and policy-exception loans are excluded.
 
+## Findings
+- Of about 1.3 million completed loans, roughly 20% were charged off.
+- Charge-off rates rise steadily with loan grade, from 6.1% (grade A) to 50.1% (grade G).
+- Grades B and C account for about 57% of completed loans.
+
 ## Status
 In progress. Full dataset loaded into SQLite; starting exploratory analysis.
