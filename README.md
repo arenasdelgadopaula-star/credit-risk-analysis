@@ -20,13 +20,15 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Of about 1.3 million completed loans, roughly 20% were charged off.
 - Charge-off rates rise steadily with loan grade, from 6.1% (grade A) to 50.1% (grade G).
 - Grades B and C account for about 57% of completed loans.
-- Net return by grade depends heavily on which loan years are included. Across all completed loans, grades E-G appear to lose money, but this is distorted by recent loans that are mostly still active. Restricting to loans issued through 2014, all grades were profitable (about +8% to +13% lifetime return).
+- Net return by grade is distorted when recent loans are included, because most recent loans that have a final status are charge-offs. Restricting to 36-month loans issued through 2014, which have all had time to finish, every grade was profitable, with lifetime returns of about +8.8% to +10.7%.
+- Within that cleaner sample, riskier grades did not earn higher returns than safer ones. Grades B-F all returned about 10%, while grade A returned 7.7%. The higher interest on risky loans roughly offset their higher charge-off rates.
 
 ## Limitations
 - Net return is a lifetime figure (total payments received vs. amount funded). It is not annualized and ignores payment timing and lender costs.
 - Only completed loans (Fully Paid or Charged Off) are included. Recent loans that are still active are excluded, which can make recent years look worse than they are.
 - Results are descriptive, not causal. I did not control for other factors like income or loan purpose.
 - Completed-loan results are biased toward early charge-offs for recent issue years, so conclusions about profitability are preliminary.
+- The clean comparison covers only 36-month loans issued 2007-2014, so it may not reflect later years or economic conditions. Grade G has only 274 loans in that sample, so its result is less reliable. Returns are lifetime, not annualized, and exclude lender costs and taxes.
 
 ## Status
 In progress. Full dataset loaded into SQLite; starting exploratory analysis.
