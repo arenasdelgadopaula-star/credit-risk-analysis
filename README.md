@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+ Credit Risk Analysis
 
 Analyzing public loan data with SQL and Python to identify which borrower segments carry the highest default risk.
 
