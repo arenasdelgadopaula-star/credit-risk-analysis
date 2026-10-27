@@ -22,6 +22,7 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Net return by grade looks very different depending on which loans are included. Across all completed loans, low grades appear to lose money, but this is distorted by recent loans that are mostly still active.
 - Restricting to 36-month loans issued through 2014, which have all had time to finish, every grade was profitable, with lifetime returns of about +8.8% to +10.7%.
 - In that cleaner sample, riskier grades did not earn higher returns than safer ones. Grades B-F all returned about 10%, while grade A returned 7.7%. The higher interest on risky loans roughly offset their higher charge-off rates.
+- Small business loans had the highest charge-off rate by purpose (22.1%, versus 10.2% for car loans). The gap holds within every loan grade (for example, 12.5% vs 5.5% in grade A), so purpose adds risk beyond what grade captures. Grade still explains far more of the variation than purpose does.
 
 ![Charge-off rate vs. net return by grade](grade_chart.png)
 
