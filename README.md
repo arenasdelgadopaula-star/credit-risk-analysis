@@ -31,6 +31,7 @@ Which borrower segments carry the highest default risk, and how should a lender 
 - Results for recent issue years are biased toward early charge-offs, so conclusions about profitability are preliminary.
 - The clean comparison covers only 36-month loans issued 2007-2014, so it may not reflect later years or economic conditions. Grade G has only 274 loans in that sample, so its result is less reliable.
 - Results are descriptive, not causal. I did not control for other factors like income or loan purpose.
+- Purpose comparisons within each grade rely on smaller samples, especially for small business loans in the lowest grades, and do not control for income or debt-to-income ratio.
 
 ## Status
 In progress. Core analysis by loan grade is complete; Tableau dashboard is next.
